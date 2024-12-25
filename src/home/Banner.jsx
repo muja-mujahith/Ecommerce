@@ -1,7 +1,7 @@
 import React from 'react'
 import productData from '../products.json'
 import {Link} from "react-router-dom"
-import SelectedCategories from '../components/selectedCategories'
+import SelectedCategories from '../components/SelectedCategories'
 
 const title = (
     <h2>Search Your One From <span>Thoudand</span> of Products</h2>
